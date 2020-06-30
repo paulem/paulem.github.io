@@ -91,6 +91,11 @@ textarea {
    Helper classes
    ========================================================================== */
 
+.pxmc-notifications-demo { 
+  display: block;
+  margin: 100px auto;
+}
+
 /*
  * Hide visually and from screen readers
  */
